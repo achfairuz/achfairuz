@@ -29,11 +29,6 @@ Beyond technology, I love traveling and exploring new experiences, always eager 
 
 ---
 
-## ⚡ GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=achfairuz&theme=github-compact)
-
----
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achfairuz)  
