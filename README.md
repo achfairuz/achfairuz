@@ -24,8 +24,7 @@ Beyond technology, I love traveling and exploring new experiences, always eager 
 ---
 
 ### 📊 GitHub Stats  
-![Achmad Fairuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=achfairuz&show_icons=true&theme=radical)
-![Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=achfairuz&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achfairuz&layout=compact&theme=radical)
 
 
 ---
