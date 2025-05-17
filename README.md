@@ -31,7 +31,7 @@ Beyond technology, I love traveling and exploring new experiences, always eager 
 
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achfairuz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/achfairuz](https://www.linkedin.com/in/achmad-fairuz-27521b24b/))  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/achfairuz)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?logo=vercel&logoColor=white)](https://iyusportofolio.vercel.app/)  
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/iyuz14)
