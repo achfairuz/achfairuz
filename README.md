@@ -23,9 +23,15 @@ Beyond technology, I love traveling and exploring new experiences, always eager 
 
 ---
 
-### 📊 GitHub Stats  
+## 📚 Most Used Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achfairuz&layout=compact&theme=radical)
 
+
+---
+
+## ⚡ GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=achfairuz&theme=github-compact)
 
 ---
 
