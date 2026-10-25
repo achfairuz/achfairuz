@@ -2,16 +2,41 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,FF007F,12072B&height=120&section=header&text=SPACE%20DEFENDER%20::%20ACHMAD%20FAIRUZ&fontSize=22&fontAlignY=38&fontColor=ffffff" width="100%" />
 </p>
 
+<!-- ANIMASI ROKET & PLANET 8-BIT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&height=45&lines=ACHMAD+FAIRUZ+%3A%3A+PLAYER+1;FULL-STACK+%2B+FLUTTER+PILOT;MISSION%3A+DEFEND+THE+GALAXY;INSERT+COIN+TO+INITIALIZE..." alt="8-bit Arcade Title" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Space.gif" width="100%" alt="Space Mission Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLAYER_1-READY-39FF14?style=for-the-badge&logo=retroarch&logoColor=black" />
-  <img src="https://img.shields.io/badge/SHIELD-100%25_%E2%99%A5%E2%99%A5%E2%99%A5-FF007F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLASS-FULL--STACK_ENGINEER-00F0FF?style=for-the-badge&logo=spacex&logoColor=white" />
-  <img src="https://img.shields.io/badge/BASE-MALANG_SECTOR-FFE600?style=for-the-badge&logoColor=black" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&height=45&lines=ACHMAD+FAIRUZ+%3A%3A+PLAYER+1;MISSION%3A+DESTROY+BUGS+%26+DEPLOY;TARGET+LOCKED%3A+FULL-STACK+APPS;INSERT+COIN+TO+INITIALIZE..." alt="8-bit Arcade Title" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PILOT-FAIRUZ-39FF14?style=for-the-badge&logo=retroarch&logoColor=black" />
+  <img src="https://img.shields.io/badge/SHIELD-100%25_%E2%99%A5%E2%99%A5%E2%99%A5-FF007F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SHIP_CLASS-FULL--STACK-00F0FF?style=for-the-badge&logo=spacex&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECTOR-MALANG-FFE600?style=for-the-badge&logoColor=black" />
+</p>
+
+---
+
+### 🕹️ RETRO SPACE SHOOTER ARCADE
+
+<p align="center">
+  <a href="https://freeinvaders.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Space Invaders Arcade Game" />
+  </a>
+  <br/>
+  <a href="https://freeinvaders.org/" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%96%B6_PRESS_START-PLAY_SPACE_INVADERS_MINIGAME-39FF14?style=for-the-badge&logo=gamepad&logoColor=black" alt="Play Game" />
+  </a>
+</p>
+
+<pre align="center">
+  ▲          [ SPACE BATTLE RADAR ]          ▲
+ ◄█►   .  *       🪐 PLANET ORBIT      *   . ◄█►
+  ▼       🛸 ──► 💥 ALIEN INVADER DESTROYED  ▼
+</pre>
 
 ---
 
@@ -32,16 +57,16 @@
 
 ### 🛸 PRIMARY MISSION DIRECTIVES (WHAT I DO)
 
-* 🌌 **Orbital Full-Stack Applications** — Merancang dan membangunkan sistem web hujung-ke-hujung (*end-to-end*) yang tangkas, moden, dan berprestasi tinggi.
-* ⚡ **Sub-Light Engines (Back-End)** — Membina REST APIs berdaya pemprosesan tinggi, microservices mantap, dan sistem pengesahan yang selamat.
-* 🛰️ **Recon Squadrons (Mobile / Flutter)** — Menghasilkan aplikasi Android rentas platform menggunakan Flutter yang responsif dan lancar.
-* 🎨 **Holographic Cockpit (UI/UX)** — Mereka bentuk antarmuka futuristik, bersih, dan memikat menggunakan Figma.
-* 🗄️ **Quantum Data Vaults** — Mengoptimumkan pangkalan data berskala besar (PostgreSQL, MySQL, Redis, MongoDB, Firebase).
-* 🛡️ **Shield Matrix & Deployment** — Automasi CI/CD, kontena Docker, dan pengurusan pelayan produksi berasaskan Linux.
+* 🌌 **Orbital Full-Stack Applications** — Merancang dan membangun aplikasi web end-to-end yang tangkas, modern, dan scalable.
+* ⚡ **Sub-Light Engines (Back-End)** — Membangun REST API berkecepatan tinggi, arsitektur microservices, dan sistem keamanan otentikasi.
+* 🛰️ **Recon Squadrons (Mobile / Flutter)** — Mengembangkan aplikasi Android multi-platform yang responsif menggunakan Flutter.
+* 🎨 **Holographic Cockpit (UI/UX)** — Desain UI/UX interaktif dan modern menggunakan Figma.
+* 🗄️ **Quantum Data Vaults** — Pengelolaan basis data SQL & NoSQL (PostgreSQL, MySQL, Redis, MongoDB, Firebase).
+* 🛡️ **Shield Matrix & Deployment** — Otomasi CI/CD, kontainerisasi Docker, dan manajemen server Linux.
 
 ---
 
-### 🕹️ SHIP WEAPONS & ARSENAL (TECH STACK)
+### 🚀 SHIP WEAPONS & ARSENAL (TECH STACK)
 
 <p align="left">
   <img src="https://img.shields.io/badge/%5BPRIMARY_CANNONS%5D-FRONTEND-00F0FF?style=flat-square" /><br/>
