@@ -2,13 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,FF007F,12072B&height=120&section=header&text=SPACE%20DEFENDER%20::%20ACHMAD%20FAIRUZ&fontSize=22&fontAlignY=38&fontColor=ffffff" width="100%" />
 </p>
 
-<!-- ANIMASI ROKET & PLANET 8-BIT (STABIL) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Pixel Rocket in Space" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&height=45&lines=ACHMAD+FAIRUZ+%3A%3A+PLAYER+1;MISSION%3A+DESTROY+BUGS+%26+DEPLOY;TARGET+LOCKED%3A+FULL-STACK+APPS;INSERT+COIN+TO+INITIALIZE..." alt="8-bit Arcade Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&height=45&lines=ACHMAD+FAIRUZ+%3A%3A+PLAYER+1;MISSION%3A+DESTROY+BUGS+%26+DEPLOY;TARGET+LOCKED%3A+FULL-STACK+APPS;INITIALIZING+FLIGHT+SYSTEMS..." alt="8-bit Arcade Title" />
 </p>
 
 <p align="center">
@@ -17,26 +12,6 @@
   <img src="https://img.shields.io/badge/SHIP_CLASS-FULL--STACK-00F0FF?style=for-the-badge&logo=spacex&logoColor=white" />
   <img src="https://img.shields.io/badge/SECTOR-MALANG-FFE600?style=for-the-badge&logoColor=black" />
 </p>
-
----
-
-### 🕹️ RETRO SPACE SHOOTER ARCADE
-
-<p align="center">
-  <a href="https://freeinvaders.org/" target="_blank">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Space Invaders Arcade Gameplay" />
-  </a>
-  <br/>
-  <a href="https://freeinvaders.org/" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%96%B6_PRESS_START-PLAY_SPACE_INVADERS-39FF14?style=for-the-badge&logo=gamepad&logoColor=black" alt="Play Game" />
-  </a>
-</p>
-
-<pre align="center">
-  ▲          [ SPACE BATTLE RADAR ]          ▲
- ◄█►   .  *       🪐 PLANET ORBIT      *   . ◄█►
-  ▼       🛸 ──► 💥 ALIEN INVADER DESTROYED  ▼
-</pre>
 
 ---
 
@@ -198,6 +173,6 @@
 ---
 
 <p align="center">
-  <code>[ MISSION STATUS: IN PROGRESS // INSERT COIN TO RESTART ]</code><br/><br/>
+  <code>[ MISSION STATUS: IN PROGRESS // SYSTEM STANDBY ]</code><br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12072B,FF007F,00F0FF&height=90&section=footer" width="100%"/>
 </p>
